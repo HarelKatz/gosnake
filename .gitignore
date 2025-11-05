@@ -30,3 +30,6 @@ go.work.sum
 # Editor/IDE
 .idea/
 .vscode/
+
+# To be removed, just used for debugging currently
+!.vscode/launch.json
